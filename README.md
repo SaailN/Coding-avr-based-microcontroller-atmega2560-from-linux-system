@@ -26,7 +26,13 @@ Now it will look like.
 
 PATH="/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/home/saail/firebird"
 
-Save and restart your pc.
+Save It.
+
+Also open a terminal inside firebird folder and execute following code:
+
+      sudo chmod u+x ./firebird.sh
+
+Restart your pc.
 
 
 
