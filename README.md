@@ -40,7 +40,7 @@ Running c and burning c code:
 
 Connect your usbasp to your board.
 
-Open the terminal where you have written tour embedded c code. Type
+Open the terminal where you have written your embedded c code. Type
 
 firebird.sh yourfilename.c       
 
