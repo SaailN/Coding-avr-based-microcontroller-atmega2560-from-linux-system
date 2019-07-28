@@ -1,4 +1,4 @@
-# Coding-avr-based-microcontroller-atmega2560-on-ubuntu-
+# Coding-avr-based-microcontroller-atmega2560-on-linux-
 
 
 
