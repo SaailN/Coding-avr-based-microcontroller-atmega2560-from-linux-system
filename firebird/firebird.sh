@@ -1,9 +1,8 @@
 #!/bin/bash
-
-
+#saail narvekar
 #e-yantra IITB
 
-#burn hex file on ubantu using command : firebird.sh filename.c
+#burn hex file on linux using command : firebird.sh filename.c
 
 
 
