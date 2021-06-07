@@ -1,6 +1,6 @@
 # Coding-avr-based-microcontroller-atmega2560-on-linux-
 
-
+Note: This cript is tested for atmega2560 microcontroller, You can edit the script for any avr based microcontroller.
 
 
 
